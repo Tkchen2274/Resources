@@ -18,6 +18,7 @@ An amalgamation of resources for various notable topics
 - [Reddit post on bootstrap OS](https://www.reddit.com/r/coding/comments/q6c5ne/os01_bootstrap_yourself_to_write_an_os_from/)
 - [OS from 0 to 1](https://github.com/tuhdo/os01/blob/master/Operating_Systems_From_0_to_1.pdf)
 - [Another OS tutorial](https://github.com/cfenollosa/os-tutorial)
+- [OS 3 easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 # 8 bit Computer 
 - [How to guide](https://austinmorlan.com/posts/chip8_emulator/)
