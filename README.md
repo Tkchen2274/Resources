@@ -12,6 +12,7 @@ An amalgamation of resources for various notable topics
 - [GB technical reference](https://gekkio.fi/files/gb-docs/gbctr.pdf)
 - [how to emulate gameboy](https://rylev.github.io/DMG-01/public/book/)
 # CPP
+- [Coding tutorials good list](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)
 
 # OS
 - [Reddit post on bootstrap OS](https://www.reddit.com/r/coding/comments/q6c5ne/os01_bootstrap_yourself_to_write_an_os_from/)
