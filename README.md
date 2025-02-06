@@ -21,7 +21,7 @@ An amalgamation of resources for various notable topics
 
 # 8 bit Computer 
 - [How to guide](https://austinmorlan.com/posts/chip8_emulator/)
-- [8 bit but for GB knowledge][https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf]
+- [8 bit but for GB knowledge](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf)
 - [example 8-bit](https://github.com/sarbajitsaha/Chip-8-Emulator)
 - https://www.reddit.com/r/EmuDev/comments/13y8sqz/i_want_to_learn_to_make_emulators/
 
