@@ -3,6 +3,7 @@ An amalgamation of resources for various notable topics
 
 # Linux Kernel
 - [Working w/ Linux Community](https://www.kernel.org/doc/html/v4.16/process/howto.html )
+  - Testing notes
 - [Admin guide Linux](https://www.kernel.org/doc/html/v5.5/admin-guide/index.html)
 # Emulator 
 
