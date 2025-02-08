@@ -20,6 +20,7 @@ An amalgamation of resources for various notable topics
 - [OS from 0 to 1](https://github.com/tuhdo/os01/blob/master/Operating_Systems_From_0_to_1.pdf)
 - [Another OS tutorial](https://github.com/cfenollosa/os-tutorial)
 - [OS 3 easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [OS utuber](https://www.youtube.com/@aptrock327)
 
 # 8 bit Computer 
 - [How to guide](https://austinmorlan.com/posts/chip8_emulator/)
@@ -39,3 +40,21 @@ An amalgamation of resources for various notable topics
 
 # Open Source Ideas
 - [Asahi Linux](https://asahilinux.org/)
+
+# Other Stuff
+- [OpenGL c++ first person shooter engine game dev: Collision and Splitscreen](https://www.youtube.com/watch?v=C1pjPv3WJyo)
+- [Beyond 'Cracking the Coding Interview': 10+ Years Of Tech Interview Evolution](https://www.youtube.com/watch?v=Qi7kfK4in2M)
+- [If you’re lazy but ambitious, learn programming](https://www.youtube.com/watch?v=x67zDhWEihc)
+- [How To Remember Everything You Code](https://www.youtube.com/watch?v=DQRECO--YNg)
+- [Hacker's Guide to UART Root Shells](https://www.youtube.com/watch?v=01mw0oTHwxg)
+- [Intro to Hardware Reversing: Finding a UART and getting a shell](https://www.youtube.com/watch?v=ZmZuKA-Rst0)
+- [Essential System Design Concepts You Should Know - System Design Tutorial](https://www.youtube.com/watch?v=uxskKNcsFLU)
+- [Need ML System Design Book? I read'em all](https://www.youtube.com/watch?v=UQ0AQyhKS-8)
+- [Learning Assembly Because I Hate Myself](https://www.youtube.com/watch?v=S2I3V0bqmr8)
+- [How to find inspiration to film yourself here on youtube | Recommendations](https://www.youtube.com/watch?v=CUmvpNVZXeQ)
+- [Answering behavioral interview questions is shockingly uncomplicated](https://www.youtube.com/watch?v=WdyiUe7_3cA)
+- [How to Speed Learn Like a CIA’s Spy (‘Easy Mode’ Neurohack Learning](https://www.youtube.com/watch?v=r2OckF3Gk_8)
+- [some of the worst API security i've EVER seen](https://www.youtube.com/watch?v=JA4Vii3tyUk)
+
+# Book
+- Learn Anything Fast
